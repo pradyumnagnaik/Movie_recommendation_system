@@ -1,8 +1,37 @@
 # Movie_recommendation_system
 Home Page
 
-<img width="700" alt="cineverse" src="https://github.com/pradyumnagnaik/Movie_recommendation_system/assets/135484402/69da4be2-5314-4d67-b512-4f08b483a7f1">
+![home](https://github.com/pradyumnagnaik/Movie_recommendation_system/assets/135484402/bb3df729-1bc3-4b88-85c4-3908694365d6)
+
 
 Admin Page
 
-<img width="500" alt="admin page" src="https://github.com/pradyumnagnaik/Movie_recommendation_system/assets/135484402/ee9595e0-473c-4722-9d8d-5505d187fe8e">
+
+
+Admin Movie Insertion & Deletion
+
+
+Admin Snacks Insertion & Deletion
+
+Booked Snack Dataset
+
+
+Booked Movie Dataset
+
+
+Movie Booking Page
+
+
+Seat Selection
+
+
+Snacks Selection
+
+
+Booking Summary
+
+
+Payment Page
+
+
+Payment Confirmation Alert

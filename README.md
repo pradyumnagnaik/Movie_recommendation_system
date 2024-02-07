@@ -5,4 +5,4 @@ Home Page
 
 Admin Page
 
-<img width="254" alt="admin page" src="https://github.com/pradyumnagnaik/Movie_recommendation_system/assets/135484402/ee9595e0-473c-4722-9d8d-5505d187fe8e">
+<img width="1000" alt="admin page" src="https://github.com/pradyumnagnaik/Movie_recommendation_system/assets/135484402/ee9595e0-473c-4722-9d8d-5505d187fe8e">
